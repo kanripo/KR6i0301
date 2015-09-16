@@ -1,0 +1,4 @@
+#-*- mode: mandoku-view; -*-
+#+TITLE: 金光明經
+#+DATE: 2015-08-30 20:15:47.076868
+#+PROPERTY: JUAN 0
